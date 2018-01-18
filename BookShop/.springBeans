@@ -9,6 +9,7 @@
 	<configs>
 		<config>src/main/java/com/bookshop/config/dao-context.xml</config>
 		<config>src/main/java/com/bookshop/config/service-context.xml</config>
+		<config>src/main/java/com/bookshop/config/security-context.xml</config>
 	</configs>
 	<autoconfigs>
 		<config>src/main/webapp/WEB-INF/dispatcher-servlet.xml</config>
